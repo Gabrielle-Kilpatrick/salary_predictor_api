@@ -8,6 +8,16 @@ The API is not a complete implementation. It does not account for error handling
 
 The idea for this project came from [Predicting Year of Marriage - End to End Machine Learning Deployment with FLASK and AWS -PART 1](https://www.youtube.com/watch?v=sm5xeKal72I). This idea assignment also came from Michael Colbert's Digital Product Management class. Colbert adapted to a data science salary prediction model and Microsoft Azure for purposes of teaching, and I am a student using his content to learn new skills.
 
+### What I learned During this Assignment
+
+---
+
+1. I learned further details about how to create and update a requirements.txt file, as well as learning about several new packets.
+
+2. I learned about building a machine learning model using salary predictors, as well as how to remove and change the variables being used. I learned how to understand what is going into the model and what data types need to be used for the model to properly function.
+
+3. Finally, I learned how to use JSON to POST data into the model and make predictions.
+
 ### To Run This Application
 
 ---
